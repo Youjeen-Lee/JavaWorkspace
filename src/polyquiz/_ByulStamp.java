@@ -17,6 +17,9 @@ public class _ByulStamp {
                 System.out.print("*");
             }
             System.out.println();
+
+            // if, else 함수 써보기
+
         }
     }
 }
