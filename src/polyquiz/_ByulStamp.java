@@ -1,19 +1,17 @@
 package polyquiz;
 
-import java.sql.SQLOutput;
-
 public class _ByulStamp {
     public static void main(String[] args) {
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 1; i < 6; i++) {
             for (int j = 0; j < i; j++) {
                 System.out.print("*");
             }
             System.out.println();
         }
 
-        for (int k = 5; k < 10; k++) {
-            for (int l = 10; l > k; l--) {
+        for (int i = 6; i < 11; i++) {
+            for (int j = 10; j > i; j--) {
                 System.out.print("*");
             }
             System.out.println();
