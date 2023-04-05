@@ -8,7 +8,6 @@ public class PolyQuiz0330 {
             // (2)
 
 
-
         }
     }
 }
