@@ -14,7 +14,7 @@ public class PolyQuiz0330_2 {
                 j++;
                 i = 0;
 
-               System.out.println();                             // (3) 줄 바꿔주고 for문으로 돌아가 반복한다.
+               System.out.println("\n");                             // (3) 줄 바꿔주고 for문으로 돌아가 반복한다.
             }
         }
     }
