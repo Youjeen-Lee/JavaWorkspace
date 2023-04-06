@@ -12,7 +12,7 @@ public class Star0405 {
             for(int j = 0; j < i + 1; j ++ ) {
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println("");
         }
     }
 
