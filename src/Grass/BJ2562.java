@@ -1,6 +1,6 @@
 package Grass;
 
-import java.util.Scanner; // 230410
+import java.util.Scanner; // 23.04.10
 public class BJ2562 {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
