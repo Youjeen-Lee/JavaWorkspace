@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class RePolyQuiz0412 { // 수요일 퀴즈 복습
     public static void main(String[] args) {
 
-        int [] arr = new int[5]; // 길이가 5인 정수형 배열 선언 ==> 5번 쓰겠다.
+        int [] arr = new int[5]; // 길이가 5인 정수형 배열 선언 ==> 5번 쓰겠다!
 
         Scanner sc = new Scanner(System.in); // 값을 입력받는 Scanner 선언
 
