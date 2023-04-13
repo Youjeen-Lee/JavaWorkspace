@@ -20,7 +20,7 @@ public class PolyQuiz0412 {
         int min = 0;
         for(int j = 0; j < arr.length; j++) {
             arr[j] = sc.nextInt();
-            if(min > arr[j]) {
+            if(min < arr[j]) {
                 min = arr[j];
             }
         }
