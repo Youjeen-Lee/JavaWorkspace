@@ -2,7 +2,7 @@ package Grass;
 
 import java.util.Scanner;
 
-public class Cu1012 {
+public class Cu1012 { //코드업 기초 100제
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
