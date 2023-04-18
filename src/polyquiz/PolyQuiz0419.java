@@ -3,7 +3,7 @@ package polyquiz;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class PolyQuiz0419 { // 배열을 이용하여 정수를 오름차순으로 정렬, 자바의 정석 p.415
+public class PolyQuiz0419 { // 배열을 이용하여 정수를 오름차순으로 정렬, 자바의 정석 p.415 참고
     public static void main(String[] args) {
         // Scanner 객체를 생성한다.
         Scanner sc = new Scanner(System.in);
