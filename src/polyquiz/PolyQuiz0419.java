@@ -1,6 +1,6 @@
 package polyquiz;
 
-import java.util.Arrays;
+import java.util.Arrays; //Arrays 클래스는 항목 정렬, 항목 검색, 항목 비교와 같은 메소드들을 제공ㄴ
 import java.util.Scanner;
 
 public class PolyQuiz0419 { // 배열을 이용하여 정수를 오름차순으로 정렬, 자바의 정석 p.415 참고!
