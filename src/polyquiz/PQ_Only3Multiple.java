@@ -1,7 +1,7 @@
 package polyquiz;
 import java.util.Scanner;
-public class PolyQuiz_402 {
-    public static void main(String[] args) {
+public class PQ_Only3Multiple {
+    public static void main(String[] args) { // 3의 배수일때만 출력하기
 
         Scanner s = new Scanner(System.in);
         int a;

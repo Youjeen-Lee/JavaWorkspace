@@ -1,6 +1,6 @@
 package polyquiz;
 
-public class PolyQuiz0405_while {
+public class PQ_GugudanWhile { // while 1번만 써서 구구단 만들기
     public static void main(String[] args) {
 
         int i, j;

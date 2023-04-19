@@ -1,8 +1,8 @@
 package polyquiz;
 import java.util.Scanner;
 
-public class PolyQuiz_04re {
-    public static void main(String[] args) {
+public class PQ_3n5Multiple {
+    public static void main(String[] args) { // 3과 5의 배수 판별(연산자)
 
         Scanner s = new Scanner(System.in);
         int a;

@@ -2,7 +2,7 @@ package polyquiz;
 
 import java.util.Scanner;
 
-public class PolyQuiz_array {
+public class PQ_ArrayAsceNotOverlap { // 입력받은 숫자를 중복없이 크기가 작은순으로 정렬
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("배열의 길이를 입력해주세요. : ");

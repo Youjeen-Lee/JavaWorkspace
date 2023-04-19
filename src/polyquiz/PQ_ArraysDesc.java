@@ -1,9 +1,9 @@
 package polyquiz;
 
-import java.util.Arrays; //Arrays 클래스는 항목 정렬, 항목 검색, 항목 비교와 같은 메소드들을 제공ㄴ
+import java.util.Arrays; //Arrays 클래스는 항목 정렬, 항목 검색, 항목 비교와 같은 메소드들을 제공
 import java.util.Scanner;
 
-public class PolyQuiz0419 { // 배열을 이용하여 정수를 오름차순으로 정렬, 자바의 정석 p.415 참고!
+public class PQ_ArraysDesc { // 배열을 이용하여 정수를 내림차순으로 정렬, 자바의 정석 p.415 참고!
     public static void main(String[] args) {
         // Scanner 객체를 생성한다.
         Scanner sc = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class PolyQuiz0419 { // 배열을 이용하여 정수를 오름차순으�
         for (int i = 0; i < num.length; i++) {
             num[i] = sc.nextInt();
         }
-        // 배열 num을 오름차순으로 정리한다.
+        // 배열 num을 내림차순으로 정리한다.
         Arrays.sort(num);
         for (int i = num.length - 1; i >= 0; i--) {
             System.out.print(num[i] + " ");

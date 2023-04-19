@@ -1,13 +1,13 @@
 package polyquiz;
 
 import java.util.Scanner;
-public class PolyQuiz_403 {
+public class PQ_5Multiple { // 5의 배수 판별(연산자)
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
         int a;
 
-        System.out.printf("5의 배수를 입력하세요. -> ");
+        System.out.printf("5의 배수를 입력하세요. : ");
         a = s.nextInt();
 
         if(a % 5 == 0) {

@@ -2,7 +2,7 @@ package polyquiz;
 
 import java.util.Scanner;
 
-public class PolyQuiz0417 { // 오늘의 퀴즈 하얗게 불태웠다..^_ㅜ
+public class PQ_ArrayNotOverlap { // 배열 중복값 제거하여 입력 순서대로 출력
     public static void main(String[] args) {
 
         // 입력값을 받기위해 스캐너 생성

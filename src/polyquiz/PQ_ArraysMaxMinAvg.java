@@ -1,8 +1,8 @@
-package Grass;
+package polyquiz;
 
 import java.util.Scanner;
 
-public class RePolyQuiz0412 { // 수요일 퀴즈 복습
+public class PQ_ArraysMaxMinAvg { // 배열을 이용하여 정수의 최대 최소 평균
     public static void main(String[] args) {
 
         int [] arr = new int[5]; // 길이가 5인 정수형 배열 선언 ==> 5번 쓰겠다!
