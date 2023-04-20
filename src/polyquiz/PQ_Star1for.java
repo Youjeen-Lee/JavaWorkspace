@@ -1,7 +1,7 @@
 package polyquiz;
 
-public class PQ_Star1for {
-    public static void main(String[] args) { // 반복문 하나로 별찍기 복습
+public class PQ_Star1for {  // 반복문 하나로 별찍기 복습
+    public static void main(String[] args) {
         int i, j;
         for (i = 1, j = 1; j < 6; i++) { // for문에 ';' 쓰지않게 주의!! {} 꼭 확인할것
 
