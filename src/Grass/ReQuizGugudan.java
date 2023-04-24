@@ -1,6 +1,6 @@
 package Grass;
 
-public class ReQuizGugudan { // 구구단 옆으로 출력하기 Quiz 복습
+public class ReQuizGugudan { // 구구단 옆으로 출력하기 Quiz 복습!
     public static void main(String[] args) {
 
 
