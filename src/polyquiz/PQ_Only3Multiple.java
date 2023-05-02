@@ -1,7 +1,7 @@
 package polyquiz;
 import java.util.Scanner;
 public class PQ_Only3Multiple {
-    public static void main(String[] args) { // 3의 배수일때만 출력하기
+    public static void main(String[] args) { // 3의 배수 판별
 
         Scanner s = new Scanner(System.in);
         int a;
@@ -11,7 +11,6 @@ public class PQ_Only3Multiple {
 
         if(a % 3 == 0) {
             System.out.printf("3의 배수입니다.\n");
-
         }
         else {
             System.out.printf("정답이 아닙니다.\n");

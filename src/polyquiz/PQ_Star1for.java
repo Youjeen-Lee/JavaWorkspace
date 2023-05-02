@@ -3,7 +3,7 @@ package polyquiz;
 public class PQ_Star1for {  // 반복문 하나로 별찍기 복습.
     public static void main(String[] args) {
         int i, j;
-        for (i = 1, j = 1; j < 6; i++) { // for문에 ';' 쓰지않게 주의!! {} 꼭 확인할것
+        for (i = 1, j = 1; j < 6; i++) { // for 조건문 뒤에 ';' 쓰지않게 주의!! {} 꼭 확인할것
 
             System.out.print("*");
             if (i >= j) {

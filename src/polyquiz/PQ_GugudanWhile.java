@@ -15,7 +15,6 @@ public class PQ_GugudanWhile { // while 1번만 써서 구구단 만들기
                 j++ ; i = 1;  // j++로 단이 바뀌고 i의 값은 10에서 1로 초기화됨
                 System.out.println();
             }
-
         }
     }
 }

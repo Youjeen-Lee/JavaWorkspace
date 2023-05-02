@@ -39,4 +39,4 @@ public class PQ_ArrayNotOverlap { // 배열 중복값 제거하여 입력 순서
         System.out.print(" 입니다.");
         }
     }
-// * flag 변수의 초기값을 false로 설정하는 이유 : 출력되는 수가 여러개인 경우 false로 설정하는 것이 더 간단한 코드이므로 ==> 그러니까 왜??
+// * flag 변수의 초기값을 false로 설정하는 이유 : 출력되는 수가 여러개인 경우 false로 설정하는 것이 더 간단한 코드이므로 ==> 그러니까 왜?? ==> boolean은 false가 초기값
