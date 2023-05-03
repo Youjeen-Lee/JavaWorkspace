@@ -31,20 +31,20 @@ public class LittleCafe { // 여러명의 주문을 받도록 하기.
         int coffee;
         int ret;
 
-        System.out.printf("A고객님, 어떤 커피 드릴까요? (1:아메리카노, 2:유자차, 3:설탕커피)");
+        System.out.printf("A고객님, 어떤 음료 드릴까요? (1:아메리카노, 2:유자차, 3:설탕커피)");
         coffee = s.nextInt();
         ret = coffee_machine(coffee);
-        System.out.printf("A고객님 커피 나왔습니다.\n\n");
+        System.out.printf("A고객님 음료 나왔습니다.\n\n");
 
-        System.out.printf("기다려주셔서 감사합니다. B고객님, 어떤 커피 드릴까요? (1:아메리카노, 2:유자차, 3:설탕커피)");
+        System.out.printf("기다려주셔서 감사합니다. B고객님, 어떤 음료 드릴까요? (1:아메리카노, 2:유자차, 3:설탕커피)");
         coffee = s.nextInt();
         ret = coffee_machine(coffee);
-        System.out.printf("B고객님~ 커피 나왔습니다.\n\n");
+        System.out.printf("B고객님~ 음료 나왔습니다.\n\n");
 
-        System.out.printf("기다려주셔서 감사합니다. C고객님, 어떤 커피 드릴까요? (1:아메리카노, 2:유자차, 3:설탕커피)");
+        System.out.printf("기다려주셔서 감사합니다. C고객님, 어떤 음료 드릴까요? (1:아메리카노, 2:유자차, 3:설탕커피)");
         coffee = s.nextInt();
         ret = coffee_machine(coffee);
-        System.out.printf("C고객님 커피 나왔습니다.\n");
+        System.out.printf("C고객님 음료 나왔습니다.\n");
 
     }
 }
