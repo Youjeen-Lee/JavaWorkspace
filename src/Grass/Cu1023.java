@@ -23,7 +23,7 @@ public class Cu1023 { // 실수 1개 입력받아 부분별로 출력하기
 //        double b = Integer.parseInt(f);
 //
 //        System.out.println(a);
-//        System.out.print((int)f); // 소수점 이하를 절삭하기위해 int로 형변환. (float은 왜 안되나?)
+//        System.out.print((int)b); // 소수점 이하를 절삭하기위해 int로 형변환. (float은 왜 안되나?)
 
 
     }
