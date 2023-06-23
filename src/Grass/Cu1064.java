@@ -1,6 +1,6 @@
 package Grass;
 
-import java.util.Scanner;
+import java.util.Scanner; //
 
 public class Cu1064 { // 1064 : 정수 3개 입력받아 가장 작은 수 출력하기
     public static void main(String[] args) {
