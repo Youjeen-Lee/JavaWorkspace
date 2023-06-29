@@ -2,7 +2,7 @@ package Grass;
 
 import java.util.Scanner;
 
-public class Cu1066 {
+public class Cu1066 { // 코드업 기초예제 1066번
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
